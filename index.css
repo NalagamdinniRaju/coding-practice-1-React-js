@@ -1,0 +1,11 @@
+/* Write your code here. */
+.heading {
+  font-family: "roboto";
+  color: red#ffffff;
+  font-size: 32px;
+  font-weight: bold;
+}
+img {
+  height: 100px;
+  width: 100px;
+}
